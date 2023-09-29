@@ -11,3 +11,11 @@ La solución se presenta en funciones individuales de Python en el archivo [Solu
 - q1_time y q1_memory: Identificación de fechas con mas tweets realizados e identificacion de los usuarios que realizaron mas tweets en dichas fechas.
 - q2_time y q2_memory: Identificación de emojis más usados.
 - q3_time y q3_memory: Identificación de usuarios más mencionados.
+
+# Especificaciones del Entorno
+
+- Python 3.10.6
+- pandas 2.0.3
+- emoji 2.8.0
+- memory-profiler 0.61.0
+- ujson 5.8.0
